@@ -12,7 +12,7 @@
   - VueJS + VueX + Vuetify
 - MySQL
 
-### Intalação
+### Instalação
 
 Com Docker e Docker Compose devidamente instalados em sua máquina basta clonar o projeto executar o ```docker-compose```:
 ```bash
